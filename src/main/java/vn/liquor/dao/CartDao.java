@@ -1,4 +1,4 @@
-package vn.liquor.model.dao;
+package vn.liquor.dao;
 
 import java.util.List;
 

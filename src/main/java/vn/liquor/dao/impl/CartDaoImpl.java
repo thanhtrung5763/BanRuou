@@ -1,4 +1,4 @@
-package vn.liquor.model.dao.impl;
+package vn.liquor.dao.impl;
 
 import java.sql.Connection;
 import java.sql.Date;

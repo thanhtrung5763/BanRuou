@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/vn/liquor/controller/web/HomeController.java=UTF-8
+encoding//src/main/java/vn/liquor/controller/web/LoginController.java=UTF-8
+encoding//src/main/java/vn/liquor/controller/web/ProductController.java=UTF-8
+encoding//src/main/java/vn/liquor/controller/web/SearchController.java=UTF-8
+encoding//src/main/java/vn/liquor/dao/impl/CategoryDaoImpl.java=UTF-8
+encoding//src/main/java/vn/liquor/dao/impl/ProductDaoImpl.java=UTF-8
+encoding//src/main/java/vn/liquor/dao/impl/UserDaoImpl.java=UTF-8
+encoding//src/main/webapp/views/admin/admincategory.jsp=UTF-8
+encoding//src/main/webapp/views/web/home.jsp=UTF-8
